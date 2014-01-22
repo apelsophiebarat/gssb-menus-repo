@@ -1,0 +1,24 @@
+tous:
+  entree: "une entrée au choix parmi six dont une crudité"
+  desserts: [
+    "un fromage au choix parmi six dont 1 yaout nature"
+    "un dessert au choix parmi six dont un fruit de saison"
+  ]
+lundi:
+  plats: "Cordon Bleu/Dos de merlu sauce basilic"
+  legumes: "Tortis au gruyère/Haricots verts persillés"
+mardi:
+  plats: "Steack haché/Manchon de canard confit"
+  legumes: "Pommes noisettes/Poêlée méridionale"
+mercredi:
+  plats: "Lasagnes bolognaise/Lieu noire à la dieppoise"
+  legumes: "Pommes vapeur/Salade verte/Endives braisées"
+jeudi:
+  plats: "Sauté de porc à la provençale/Poisson pané citron"
+  legumes: "Semoule au jus/Gratin de brocolis"
+vendredi:
+  plats: "Omelette au fromage/Filet de saumon"
+  legumes: "Riz safrané/Épinards à la crème"
+remarques: [
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]

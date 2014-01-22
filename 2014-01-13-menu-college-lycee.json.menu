@@ -1,0 +1,24 @@
+tous:
+  entree: "une entrée au choix parmi six dont une crudité"
+  desserts: [
+    "un fromage au choix parmi six dont 1 yaout nature"
+    "un dessert au choix parmi six dont un fruit de saison"
+  ]
+lundi:
+  plats: "Fricassée de boeuf sauce tomate/Filet de julienne à l'aneth"
+  legumes: "Purée de pommes de terre/Gratin de choux-fleurs"
+mardi:
+  plats: "Coquillettes à la carbonara/Blanquette de veau à l'ancienne"
+  legumes: "Coquillettes/Haricots verts persillés"
+mercredi:
+  plats: "Croque monsieur maison/Thon à la basquaise"
+  legumes: "Blé cuit au jus/Carottes vichy/Salade verte"
+jeudi:
+  plats: "Petit salé/Pauiette de veau à la forestière"
+  legumes: "Lentilles/Julienne de légumes"
+vendredi:
+  plats: "Sauté de dinde tandoori à l'anans/Filet de flétan au safran"
+  legumes: "Riz basmati/Choux de Bruxelles au jus/Carottes persillées"
+remarques: [
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]

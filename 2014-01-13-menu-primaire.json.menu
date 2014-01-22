@@ -1,0 +1,30 @@
+lundi:
+  entree: "Soupe de légumes"
+  plat: "Fricassée de bœuf sauce tomate"
+  legumes: "Purée de pommes de terres/Gratin de choux-fleurs"
+  dessert: "Riz au lait caramel"
+mardi:
+  entree: "Salade d'endives au bleu"
+  plat: "Coquillettes à la carbonara"
+  legumes: "Haricots verts persillés"
+  desserts: "Doony's sucrés"
+mercredi:
+  entree: "Carottes râpées"
+  plat: "Croque monsieur maison"
+  legumes: "Salade verte"
+  dessert: "Poires au sirop"
+jeudi:
+  entree: "Salade au surimi"
+  plat: "Petits salé aux lentilles"
+  legumes: "Julienne de légumes"
+  dessert: "Compote de fruits"
+vendredi:
+  entree:"Rosette de Lyon"
+  plat: "Filet de flétan sauce safran"
+  legumes: "Riz basmati/Chous de Bruxelles/Carottes persillées"
+  desserts: "Clémentines"
+tous:
+  desserts: "Produits laitiers ou fromages"
+remarques: [
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]
