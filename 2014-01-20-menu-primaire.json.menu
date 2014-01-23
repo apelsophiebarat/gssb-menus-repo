@@ -1,0 +1,24 @@
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+lundi:
+  plats: "Tortellinis au gruyère/Filet mignon de porc à la moutarde"
+  legumes: "Spaghettis/Haricots verts persillés"
+mardi:
+  plats: "Rôti de porc sauce grand-mère/Dos de cabillaud sauce bonne-femme"
+  legumes: "Semoule au jus/Gratin de choux fleurs"
+mercredi:
+  plats: "Tartiflette savoyarde/Oeufs brouillés piperade en feuilletage"
+  legumes: "Blé cuit/Jeunes carottes/Salade verte"
+jeudi:
+  plats: "Boeuf bourguignon/Cervelas campagnard"
+  legumes: "Purée de pommes de terre/Epinards"
+vendredi:
+  plats: "Navarin d'agneau aux petits légumes/Calamars à la romaine"
+  legumes: "Petits pois-carottes/Fenouil braisé"
+remarques: [
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]
