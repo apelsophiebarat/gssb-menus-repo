@@ -1,0 +1,25 @@
+lundi:
+  plats: "Nuggets de poulet / Dos de cabillaud sauce au basilic"
+  legumes: "Coquillettes/ Haricots verts persillés"
+mardi:
+  plats:"Paupiette de veau sauce normande / Filet de poisson meunière"
+  legumes:"Ratatouille / Semoule couscous"
+mercredi:
+  plats: "Lasagnes bolognaise / Navarin d'agneau"
+  legumes: "Blé cuit / Epinards à la crème"
+jedui:
+  plats: "Petit salé / Manchon de canard confit"
+  legumes: "Lentilles / Gratin de choux-fleurs"
+vendredi:
+  plats: "Ailes de poulet tex-mex / Escalope de saumon sauce bonne femme"
+  legumes: "Riz / Courgettes poêlées"
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+remarques: [
+  "Les fruits et légumes, on en à besoin tout les jours",
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]
