@@ -1,0 +1,25 @@
+lundi:
+  plats: "Saucisse de Francfort / Dos de merlu sauce aux crustacés"
+  legumes: "pommes rissolées / Julienne de légumes"
+mardi:
+  plats: "Sauté de dinde au curry / Steak haché sauce au poivre"
+  legumes: "Semoule / Choux de Bruxelles"
+mercredi:
+  plats: "Poulet rôti au thym / Filet de colin au beurre nantais"
+  legumes: "Gratin dauphinois / Ratatouille"
+jeudi:
+  plats: "Spaghettis à la bolognaise / Blanquette de veau à l'ancienne"
+  legumes: "Spaghettis / Haricots verts"
+vendredi:
+  plats: "Sauté de bœuf aux olives / Filet de flétan à la fondue de poireaux"
+  legumes: "Purée de pommes de terre / Gratin de courgettes"
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+remarques: [
+  "Les fruits et légumes, on en à besoin tout les jours",
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]
