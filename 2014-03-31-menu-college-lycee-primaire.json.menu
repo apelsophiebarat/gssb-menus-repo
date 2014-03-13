@@ -1,0 +1,25 @@
+lundi:
+  plats: "Raviolis au gruyère / Selle d'agneau à l'estragon / Dos de colin sauce crustacé"
+  legumes: "Courgettes persillées / Blé au jus"
+mardi:
+  plats: "Steak haché sauce poivre / Mignon de porc au miel"
+  legumes: "Julienne de légumes / Purée"
+mercredi:
+  plats: "Lasagne bolognaise / Râble de lapin à la moutarde"
+  legumes: "Haricots verts persillés / Salade verte"
+jeudi:
+  plats: "Bœuf bourguignon / Dos de colin sauce crustacé"
+  legumes: "Riz pilaf / Carottes braisées"
+vendredi:
+  plats: "Escalope à la crème /Filet de flétan à la dieppoise"
+  legumes: "Frites / Epinards à la crème"
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+remarques: [
+  "Les fruits et légumes, on en à besoin tous les jours",
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]

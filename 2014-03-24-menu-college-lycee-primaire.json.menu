@@ -1,0 +1,25 @@
+lundi:
+  plats: "Merguez sauce tomate / Dos de merlu à la nantaise"
+  legumes: "Semoule de couscous / Brocolis"
+mardi:
+  plats: "Tortellinis à la viande / Poule au pot"
+  legumes: "Légumes de la potée / Pommes vapeur"
+mercredi:
+  plats: "Croissant au jambon / Filet de flétan à la dieppoise"
+  legumes: "Salade verte / Mélange de légumes forestier"
+jeudi:
+  plats: "Cuisse de poulet / Fricassée de bœuf provençal"
+  legumes: "Tomate à Sa provençale / Frites"
+vendredi:
+  plats: "Sauté de porc grand-mère / Dos de cabillaud sauce basilic"
+  legumes: "Purée de carottes / Torsades"
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+remarques: [
+  "Les fruits et légumes, on en à besoin tous les jours",
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]

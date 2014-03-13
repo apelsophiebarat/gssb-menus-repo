@@ -1,0 +1,25 @@
+lundi:
+  plats: "Nuggets / Boudin noir aux pommes"
+  legumes: "Purée / Gratin de courgettes"
+mardi:
+  plats: "Pâtes à la carbonara / Dos de merlu à la fondue de poireaux"
+  legumes: "Coquillettes / haricots verts persillés"
+mercredi:
+  plats: "Galette bretonne / Sauté de dinde à l'ancienne"
+  legumes: "Purée de céleri / Salade verte"
+jeudi:
+  plats: "Rôti de porc au jus Orloff / Colombo de poulet"
+  legumes: "Riz / Blettes"
+vendredi:
+  plats: "Beignets de poissons au citron / Filet de lieu sauce safran"
+  legumes: "Choux fleurs gratinés / Semoule sauce tomate"
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+remarques: [
+  "Les fruits et légumes, on en à besoin tous les jours",
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]

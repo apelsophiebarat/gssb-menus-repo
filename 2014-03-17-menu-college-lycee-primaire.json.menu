@@ -1,0 +1,25 @@
+lundi:
+  plats: "Cordon bleu sauce tomate / Dos de collin à l'estragon"
+  legumes: "Gratin de courgettes / Semoule de couscous"
+mardi:
+  plats: "Aiguillettes de poulet à l'indienne / Bœuf bourguignon"
+  legumes: "Haricots verts / Riz blanc"
+mercredi:
+  plats: "Feuilleté d'œufs brouillés piperade / Tomate farcie"
+  legumes: "Gratin de brocolis / Blé au jus"
+jeudi:
+  plats: "Hachis parmentier / Filet merlu meunière"
+  legumes: "Purée / Légumes ratatouille"
+vendredi:
+  plats: "Omelette au fromage / Calamars à la romaine"
+  legumes: "Jeunes carottes à la crème / Petits pois à la française"
+tous:
+  entree: "1 entrée au choix parmi 6 dont 1 crudité"
+  desserts: [
+    "1 fromage au choix parmi 6 dont 1 yaourt nature"
+    "1 dessert au choix parmi 6 dont 1 fruit de saison"
+  ]
+remarques: [
+  "Les fruits et légumes, on en à besoin tous les jours",
+  "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+]
