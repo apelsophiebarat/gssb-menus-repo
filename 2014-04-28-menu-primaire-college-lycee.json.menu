@@ -1,0 +1,40 @@
+{
+  lundi:
+    plats: [
+      "Nugget’s"
+      "Paupiette de veau marengo"
+    ]
+    legumes: ["Poêlée de ratatouille / Semoule de couscous"]
+
+  mardi:
+    plats: [
+      "Omelette campagnarde"
+      "Filet de lieu sauce estragon"
+    ]
+    legumes: ["Gratin de courgettes / Chou braisé / Riz pilaf"]
+
+  mercredi:
+    plats: [
+      "Croque-monsieur"
+      "Coq au vin"
+    ]
+    legumes: ["Salade verte / Blé au jus"]
+  vendredi:
+    plats: [
+      "Sauté de porc Tandoori"
+      "Filet de colin à la tomate"
+    ]
+    legumes: ["Epinards à la crème / Coquillettes"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
