@@ -1,0 +1,41 @@
+{
+  lundi:
+    plats: [
+      "Cheese Burger / Selle d’agneau"
+      "Dos de cabillaud à l’aneth"
+    ]
+    legumes: ["Poêlée de légumes / Pommes rissolées"]
+
+  mardi:
+    plats: [
+      "Couscous royal"
+      "Filet de flétan au basilic"
+    ]
+    legumes: ["Choux-fleurs gratinés / Semoule couscous"]
+
+  mercredi:
+    plats: [
+      "Tomate farcie"
+      "Endives au jambon"
+    ]
+    legumes: ["Endives braisées / Torsades"]
+
+  vendredi:
+    plats: [
+      "Paëlla"
+      "Escalope de saumon à la fondue de poireaux"
+    ]
+    legumes: ["Riz basmati / Haricots verts persillés"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

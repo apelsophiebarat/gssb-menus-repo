@@ -1,0 +1,48 @@
+{
+  lundi:
+    plats: [
+      "Cordon bleu"
+      "Lapin à la moutarde"
+    ]
+    legumes: ["Epinards à la crème / Semoule sauce tomate"]
+
+  mardi:
+    plats: [
+      "Bœuf aux olives"
+      "Omelette aux fines herbes"
+    ]
+    legumes: ["Coquillettes / Haricots verts persillés"]
+
+  mercredi:
+    plats: [
+      "Lasagne bolognaise"
+      "Poulet basquaise"
+    ]
+    legumes: ["Blé cuit / Gratin de courgettes"]
+
+  jeudi:
+    plats: [
+      "Paupiette de veau aux champignons"
+      "Filet de lieu à l’oseille"
+    ]
+    legumes: ["Julienne de légumes / Purée"]
+
+  vendredi:
+    plats: [
+      "Rôti de porc grand-mère"
+      "Poisson au citron"
+    ]
+    legumes: ["Riz / Endives braisées / Petits pois à la française"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
