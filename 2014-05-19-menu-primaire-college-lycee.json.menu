@@ -1,0 +1,48 @@
+{
+  lundi:
+    plats: [
+      "Raviolis gratinés au four"
+      "Filet de flétan sauce crustacés"
+    ]
+    legumes: ["Choux-fleurs en gratin / Purée"]
+
+  mardi:
+    plats: [
+      "Omelette aux oignons"
+      "Blanquette de veau"
+    ]
+    legumes: ["Brocolis / Semoule couscous"]
+
+  mercredi:
+    plats: [
+      "Galette bretonne"
+      "Filet de merlu au basilic"
+    ]
+    legumes: ["Salade verte / Fenouil braisé / Ebly"]
+
+  jeudi:
+    plats: [
+      "Pâtes à la carbonara"
+      "Sauté de bœuf aux olives"
+    ]
+    legumes: ["Haricots verts persillés / Spaghettis"]
+
+  vendredi:
+    plats: [
+      "Quiche"
+      "Beignets de poisson sauce tartare/ Filet de colin au beurre nantais"
+    ]
+    legumes: ["Carottes à la crème / Riz pilaf"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
