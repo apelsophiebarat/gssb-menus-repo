@@ -1,0 +1,42 @@
+{
+  lundi:
+    plats: [
+      "Tortellinis"
+      "Dos de colin à la fondue de poireaux"
+    ]
+    legumes: ["Carottes vichy / Blé"]
+
+  mardi:
+    plats: ["Hachis Parmentier / Boudin noir aux pommes"]
+    legumes: ["Purée / Haricots verts persillés"]
+
+  mercredi:
+    plats: [
+      "Œufs brouillés piperade sur son feuilletage"
+      "Filet de flétan à la dîeppoise"
+    ]
+    legumes: ["Gratin de courgettes"]
+
+  jeudi:
+    plats: ["Chili con carne l Jambon braisé au Porto"]
+    legumes: ["Riz créole / Gratin de choux fleurs"]
+
+  vendredi:
+    plats: [
+      "Rôti de porc sauce chasseur"
+      "Poisson pané au citron"
+    ]
+    legumes: ["Petits pois-carottes / Pommes rissolées"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

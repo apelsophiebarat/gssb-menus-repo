@@ -1,0 +1,45 @@
+{
+  lundi:
+    plats: [
+      "Fricassé de boeuf sauce tomate / Onglet à l’échalote"
+      "Dos de merlu au basilic"
+    ]
+    legumes: ["Semoule couscous l Haricots verts"]
+
+  mardi:
+    plats: ["Sauté de dinde à la chinoise / Samoussa au porc"]
+    legumes: ["Gratin de courgettes / Nems / Riz thaï cantonnais"]
+
+  mercredi:
+    plats: [
+      "Escalope de porc à la crème forestière"
+      "Filet de limande meunière"
+    ]
+    legumes: ["Gratin de choux fleurs / Blé"]
+
+  jeudi:
+    plats: [
+      "Poulet rôti au thym"
+      "Dos de lieu sauce crustacé"
+    ]
+    legumes: ["Frites / Poêlée de ratatouille"]
+
+  vendredi:
+    plats: [
+      "Steak haché"
+      "Calamars à la romaine"
+    ]
+    legumes: ["Coquillettes au beurre / Carottes persillées"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

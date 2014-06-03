@@ -1,0 +1,45 @@
+{
+  lundi:
+    plats: [
+      "Ailes de poulet Wings"
+      "Dos de cabillaud au curry"
+    ]
+    legumes: ["Semoule de couscous l Ratatouille"]
+
+  mardi:
+    plats: [
+      "Blanquette de veau à l'ancienne"
+      "Brandade de poisson"
+    ]
+    legumes: ["Epinards à la crème / Purée"]
+
+  mercredi:
+    plats: [
+      "Croissant au jambon"
+      "Dos de colin à l’estragon"
+    ]
+    legumes: ["Pommes vapeur / Julienne de légumes brocolis l Salade verte"]
+
+  jeudi:
+    plats: ["Sauté de porc au curry/ Nugget’s"]
+    legumes: ["Gratin de poireaux l Riz basmati"]
+
+  vendredi:
+    plats: [
+      "Spaghettis à la bolognaise"
+      "Marmite du pêcheur"
+    ]
+    legumes: ["Endives braisées / Spaghettis"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

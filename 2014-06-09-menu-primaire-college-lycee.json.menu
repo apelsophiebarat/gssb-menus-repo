@@ -1,0 +1,42 @@
+{
+  lundi:
+    plats: ["FERIÉ"]
+    legumes: []
+
+  mardi:
+    plats: [
+      "Chipolatas/ Merguez"
+      "Dos de cabillaud au beurre nantais"
+    ]
+    legumes: ["Jeunes carottes à la crème / Semoule couscous"]
+
+  mercredi:
+    plats: [
+      "Croque Monsieur"
+      "Gratin de poisson"
+    ]
+    legumes: ["Endives braisées / Blé au jus / Salade verte"]
+
+  jeudi:
+    plats: ["Paupiette de veau marengo/ Echine 1/z sel à la diable"]
+    legumes: ["Lentilles / Gratin de choux fleurs"]
+
+  vendredi:
+    plats: [
+      "Escalope de volaille à la crème"
+      "Filet de cabillaud à la niçoise"
+    ]
+    legumes: ["Macaronis / Duo d’haricots blancs-verts"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
