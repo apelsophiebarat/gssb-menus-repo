@@ -1,8 +1,4 @@
 {
-  lundi:
-    plats: ["FERIÉ"]
-    legumes: []
-
   mardi:
     plats: [
       "Chipolatas/ Merguez"
@@ -18,7 +14,7 @@
     legumes: ["Endives braisées / Blé au jus / Salade verte"]
 
   jeudi:
-    plats: ["Paupiette de veau marengo/ Echine 1/z sel à la diable"]
+    plats: ["Paupiette de veau marengo/ Echine demi sel à la diable"]
     legumes: ["Lentilles / Gratin de choux fleurs"]
 
   vendredi:

@@ -4,7 +4,7 @@
       "Ailes de poulet Wings"
       "Dos de cabillaud au curry"
     ]
-    legumes: ["Semoule de couscous l Ratatouille"]
+    legumes: ["Semoule de couscous / Ratatouille"]
 
   mardi:
     plats: [
@@ -18,11 +18,11 @@
       "Croissant au jambon"
       "Dos de colin à l’estragon"
     ]
-    legumes: ["Pommes vapeur / Julienne de légumes brocolis l Salade verte"]
+    legumes: ["Pommes vapeur / Julienne de légumes brocolis / Salade verte"]
 
   jeudi:
     plats: ["Sauté de porc au curry/ Nugget’s"]
-    legumes: ["Gratin de poireaux l Riz basmati"]
+    legumes: ["Gratin de poireaux / Riz basmati"]
 
   vendredi:
     plats: [
