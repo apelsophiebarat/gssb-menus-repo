@@ -1,0 +1,48 @@
+{
+  lundi:
+    plats: [
+      "Omelette au fromage"
+      "Sauté de dinde à la provençale"
+    ]
+    legumes: ["Semoule de couscous / Courgettes sautées"]
+
+  mardi:
+    plats: [
+      "Chili con carne"
+      "Dos de merlu sauce fondue de poireaux"
+    ]
+    legumes: ["Riz blanc / Mélange campagnard"]
+
+  mercredi:
+    plats: [
+      "Côte de porc grillée au jus"
+      "Moules marinières"
+    ]
+    legumes: ["Frites / Choux-fleurs braisés"]
+
+  jeudi:
+    plats: [
+      "Cassoulet maison (chipolatas, jambonneau)"
+      "Filet de flétan à la dieppoise"
+    ]
+    legumes: ["Epinards au jus / Carottes à la crème"]
+
+  vendredi:
+    plats: [
+      "Raviolis au gruyère / Onglet à l'échalote"
+      "Dos de cabillaud au au beurre nantais"
+    ]
+    legumes: ["Pommes vapeur / Duo d'haricots verts et haricots beurre"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

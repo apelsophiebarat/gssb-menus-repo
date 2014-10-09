@@ -1,0 +1,48 @@
+{
+  lundi:
+    plats: [
+      "Paupiette farcie à la forestière"
+      "Dos de cabillaud à l'aneth"
+    ]
+    legumes: ["Purée de carottes / Tortis au gruyère"]
+
+  mardi:
+    plats: [
+      "Steak haché sauce roquefort"
+      "Dos de merlu sauce basilic"
+    ]
+    legumes: ["Semoule / Choux de Bruxelles"]
+
+  mercredi:
+    plats: [
+      "Tartiflette maison"
+      "Oeufs brouillés piperade en feuilleté"
+    ]
+    legumes: ["Gratin de courgettes / Pommes vapeur persillées"]
+
+  jeudi:
+    plats: [
+      "Petit salé lentilles"
+      "Filet de flétan à la fondue de poireaux"
+    ]
+    legumes: ["Lentilles / Brocolis gratinés"]
+
+  vendredi:
+    plats: [
+      "Calamars à la romaine"
+      "Fillet de suamon sauce bonne femme"
+    ]
+    legumes: ["Légumes ratatouille / Riz pilaf"]
+
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
