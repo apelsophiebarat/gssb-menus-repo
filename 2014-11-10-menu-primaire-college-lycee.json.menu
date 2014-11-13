@@ -1,0 +1,31 @@
+{
+  mercredi:
+    plats: [
+    "Galette bretonne"
+    "Dos de cabillaud sauce dieppoise"
+    ]
+    legumes: ["Pommes vapeur / Haricots verts persillés"]
+  jeudi:
+    plats: [
+    "Omelette campagnarde"
+    "Rôti de porc à la provençale"
+    ]
+    legumes: ["Tortis au gruyère / Brocolis gratinés"]
+  vendredi:
+    plats: [
+      "Fricassée de boeuf sauce tomate"
+      "Dos de merlu sauce basilic"
+    ]
+    legumes: ["Endives braisées / Semoule couscous"]
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
