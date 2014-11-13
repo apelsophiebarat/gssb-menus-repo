@@ -1,14 +1,14 @@
 {
   mercredi:
     plats: [
-    "Galette bretonne"
-    "Dos de cabillaud sauce dieppoise"
+      "Galette bretonne"
+      "Dos de cabillaud sauce dieppoise"
     ]
     legumes: ["Pommes vapeur / Haricots verts persillés"]
   jeudi:
     plats: [
-    "Omelette campagnarde"
-    "Rôti de porc à la provençale"
+      "Omelette campagnarde"
+      "Rôti de porc à la provençale"
     ]
     legumes: ["Tortis au gruyère / Brocolis gratinés"]
   vendredi:
