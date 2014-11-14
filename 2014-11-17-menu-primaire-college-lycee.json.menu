@@ -1,0 +1,53 @@
+{
+  lundi:
+    plats: [
+      "Saucisse de Francfort"
+      "Filet de flétan sauce fondue de poireaux"
+    ]
+    legumes:
+      "Pommes campagnardes / Haricots verts persillés"
+
+  mardi:
+    plats: [
+      "Steak haché sauce au poivre"
+      "Cuisse de lapin bourguignonne"
+    ]
+    legumes:
+      "Riz thaï / Gratin de choux-fleurs"
+
+  mercredi:
+    plats: [
+      "Croque Monsieur"
+      "Dos de colin lieu sauce bonne femme"
+    ]
+    legumes:
+      "Salade verte / Carottes vichy / Blé cuit au jus"
+
+
+  jeudi:
+    plats: [
+      "Spaghettis à la bolognaise"
+      "Manchon de canard confit"
+    ]
+    legumes:
+      "Spaghettis / Fenouil braisé"
+
+  vendredi:
+    plats: [
+      "Sauté de dinde forestière"
+      "Filet de saumon à l'aneth"
+    ]
+    legumes:
+      "Semoule sauce tomate / Fondue de poireaux"
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
