@@ -1,0 +1,28 @@
+{
+  lundi:
+    plats: "Raviolis au gruyère / Selle d'agneau aux champignons des bois / Filet de flétan au basilic"
+    legumes: "Blé au jus / Epinards à la crème"
+  mardi:
+    plats: "Couscous poulet-merguez maison"
+    legumes: "Semoule de couscous / Haricots verts persillés"  
+  mercredi:
+    plats: "Lasagne bolognaise / Dos de cabillaud à l'estragon"
+    legumes: "Riz basmati / Endives braisées"
+  jeudi:
+    plats: "Omelette à la forestière / Dos de merlu sauce fondue de poireaux"
+    legumes: "Légumes Spaghettis / Carottes à la crème"
+  vendredi:
+    plats: "Aile de poulet wings / Blanquette de veau"
+    legumes: "Gratin de choux-fleurs / Purée de potiron"
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

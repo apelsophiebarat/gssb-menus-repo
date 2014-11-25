@@ -1,0 +1,28 @@
+{
+  lundi:
+    plats: "Nugget's de poulet / Jambon braisé au porto / Filet de flétan à la dieppoise"
+    legumes: "Purée / Gratin de salsifis"
+  mardi:
+    plats: "Côte de porc grillée / Pintade à l'orange"
+    legumes: "Légumes Lentilles / Mélange campagnard"
+  mercredi:
+    plats: "Tomate farcie maison / Œufs brouillés piperade en feuilleté"
+    legumes: "Haricots beurre / Petits pois à la française"
+  jeudi:
+    plats: "Coquillettes à la carbonara / Dos de cabillaud beurre nantais"
+    legumes: "Légumes Coquillettes / Purée de carottes"
+  vendredi:
+    plats: "Boeuf bourguignon / Filet de poisson meunière"
+    legumes: "Brocolis persillés / Riz créole"
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

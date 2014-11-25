@@ -1,0 +1,27 @@
+{
+  lundi:
+    plats: "Rôti de boeuf aux champignons / Dos de lieu à l'aneth"
+    legumes: "Semoule sauce tomate / Choux-fleurs braisés"
+  mardi:
+    plats: "Petit salé aux lentilles / Filet de saumon beurre nantais"
+    legumes: "Lentilles / Purée de carottes"
+  mercredi:
+    plats: "Tartiflette maison / Coq au vin"
+    legumes: "Salade verte / Haricots beurre / Pommes vapeur persillées"
+  jeudi:
+    plats: "Sauté de dinde tandoori / Calamars à la romaine sauce tartare"
+    legumes: "Riz pilaf / Epinards au jus"
+  vendredi:
+    plats: "Hachis parmentier / Endives au jambon"
+    legumes: "Purée / Endives braisées"
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}

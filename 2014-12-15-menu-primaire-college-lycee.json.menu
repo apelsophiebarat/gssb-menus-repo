@@ -1,0 +1,29 @@
+{
+  lundi:
+    plats: "Fricassée de boeuf sauce tomate / Dos de cabillaud sauce safran"
+    legumes: "Semoule au jus / Brocolis gratinés"
+  mardi:
+    plats: "REPAS DE NOËL"  
+  mercredi:
+    plats: "Poulet rôti / Filet meunière au citron"
+    legumes: "Blé cuit au jus / Haricots verts persillés"
+  jeudi:
+    plats: "Cassoulet maison / Filet de flétan sauce fondue de poireaux"
+    legumes: "Purée / Gratin de poireaux"
+  vendredi:
+    plats: "Omelette au fromage / Chili con carne"
+    legumes: "Riz blanc / Carottes à la crème"
+    legumes:
+      "Semoule sauce tomate / Fondue de poireaux"
+  tous:
+    entree: "1 entrée au choix parmi 6 dont 1 crudité"
+    desserts: [
+      "1 fromage au choix parmi 6 dont 1 yaourt nature"
+      "1 dessert au choix parmi 6 dont 1 fruit de saison"
+    ]
+
+  remarques: [
+    "Les fruits et légumes, on en à besoin tous les jours"
+    "Nous nous réservons la possibilité de modifier le menu en fonction des arrivages, tout en respectant l'équilibre nutritionnel"
+  ]
+}
